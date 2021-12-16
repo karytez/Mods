@@ -10,7 +10,7 @@ namespace BTD6_Infinite_Monkey_Money
 {
     public class Class1 : BloonsTD6Mod
     {
-        public static ModSettingInt amount = new ModSettingInt(999999999);
+        public static ModSettingInt amount = new ModSettingInt(85000);
         public override void OnApplicationStart()
         {
             MelonLogger.Msg("Infinite Monkey Money loaded!");
